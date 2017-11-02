@@ -1,0 +1,24 @@
+Jesus Hernandez
+jherna83
+PA5
+README
+
+This program contains the following files:
+
+Graph.c - Graph ADT used to manipulate a graph
+
+Graph.h - header file for Graph.c
+
+List.c - A list ATD used within Graph.c
+
+List.h - The header file for List.c
+
+FindComponents.c - Client which uses the Graph.c ADT to find the strongly connectec components of a graph
+
+GraphTest.c - Test file used to test functionality of the Graph ADT
+
+Makefile - makes/ compiles the program and comes with various other commands
+
+Notes: 
+
+NONE 
